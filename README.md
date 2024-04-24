@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namosharma&label=Profile%20views&color=0e75b6&style=flat" alt="namosharma" /> </p>
 
-- 💬 Ask me about **Data Structure and Algorithms,HTML,CSS,JavaScript**
+- 💬 Ask me about **Data Structure and Algorithms,HTML,CSS,JavaScript,React,Nodejs,Expressjs**
 
 - 📫 How to reach me **nnamosharma3@gmail.com**
 
